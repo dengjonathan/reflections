@@ -8,3 +8,25 @@ to specify which files to add to the repo without actually adding them
 
 It can give you a place to set up your commits before you actually push them
 to the repo.
+
+With the staging area you can use git diff to see what changes you are
+introducing making sure that you are not commiting too
+many logical changes at once.
+
+Using branches allows you to try multiple different things in your program.
+For example when A/B testing new features in your website you can use git
+branching to allow development of the website without new feature and the
+website with new feature.
+
+Have a master, production code branch where there is stable code, never breaks
+New feature branches
+experimental branches
+
+How do you use to collaborate with yourself?
+Allows you to context switch- i.e. fixing bug/ or working on new features
+
+The diagrams show which nodes have pointers to which other nodes, allowing you to
+see where is a probelm of an unreachabel node.
+
+Manually merging can be kind of a pain- but will be proactive about resolving
+conflicts- especially between two different devs.
