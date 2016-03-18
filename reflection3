@@ -47,3 +47,5 @@ Clone: to create a copy of the rep with the entire commit history
 
 Branches: to create a copy of the repo with commit history, but to diverge
 from master so new commits are not added to the master branch
+
+Benefit of having last known state stored locally- so you can work on plane if you are offline
