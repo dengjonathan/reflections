@@ -1,0 +1,10 @@
+When you initialize a repo, git creates a .gitignore file with begins saving
+commits.
+
+You need to do it to start saving version control.
+
+A staging area differs from the working dir and repo because it allows a place
+to specify which files to add to the repo without actually adding them
+
+It can give you a place to set up your commits before you actually push them
+to the repo.
