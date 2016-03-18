@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Can see differences highlighted instead of scrolling through to see changes
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If system breaks at a certain point, you can forensically analyze which commit 
+caused the break.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Sometimes you forget to save and your network crashes, which is an argument for automatic saves.
+
+However, it might be useful to have to define a specific intention for each addition you are making
+to the project.  Especially for collaboration- this would allow each team member to see changes
+that get added to a project.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    for conflicts?  I am not sure how to answer this.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can see the commit history of your files
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You can make and execute and if it breaks, use diff to isolate what changes were made.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    to work on my udacity projects on the cloud across multiple devices (i.e. macbook, ipad, on browser on borrowed
+computers)
