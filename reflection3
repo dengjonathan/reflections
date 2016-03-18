@@ -40,3 +40,10 @@ master?  What benefits does each approach have?
 
     To experiment and create a prototype of a new feature without affecting
     the production code.
+
+Forks: to clone a repo that you don't own and make you're own changes to it.
+
+Clone: to create a copy of the rep with the entire commit history
+
+Branches: to create a copy of the repo with commit history, but to diverge
+from master so new commits are not added to the master branch
